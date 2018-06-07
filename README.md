@@ -11,3 +11,5 @@
 [assignment 6/graded assignment 2](https://github.com/Maevezw/assignments/blob/master/Graded_assignment_2.ipynb)
 
 [Exam assignment PYTHON](https://github.com/Maevezw/assignments/blob/master/exam_june_7_2018.1.ipynb)
+
+[Exam assignment R](https://github.com/Maevezw/assignments/blob/master/Exam_student.ipynb)
